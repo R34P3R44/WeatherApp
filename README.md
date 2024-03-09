@@ -10,7 +10,7 @@ Using a NX monorepo, TypeScript, React and Next.js your task is to build a Weath
 
 In England, we love talking about the weather. To help people have informed conversations about the weather; your assignment is to use data from the [Visual Crossing Weather API](https://www.visualcrossing.com/resources/documentation/weather-api/timeline-weather-api/) and display it so it looks like [this design document](https://www.figma.com/file/FNdVsOUJA53CWMW9mnraYk/Weather-App?type=design&node-id=0%3A1&t=FPsFSmGIgDaH48F6-1). It doesn't have to be pixel pefect- but should maintain functional and operational integrity when used on different types of devices with different screen resolutions.
 
-### Tasks
+### Tasks 
 
 Fork this branch and then design, organise, test, lint and document your code using the scenario of it being deployed to production and be used by a user base of approx. 5,000 daily active users.
 
